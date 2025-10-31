@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+.env
+.venv
+.envrc
+.idea/
+.vscode/
+.ipynb_checkpoints/
+models/saved/*
+!models/saved/.gitkeep
+.DS_Store
